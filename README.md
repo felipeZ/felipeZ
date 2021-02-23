@@ -1,8 +1,8 @@
 ## About me
 
-My name is Felipe Zapata and I work as a software engineer at the [Netherlands eScience Center](https://www.esciencecenter.nl/). I am a curious scientific-minded software developer with a strong conviction that perseverance, teamwork and a considerable amount of luck 🍀 are the ingridients behind succcesful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio) instead of reading (very boring) papers. 
+My name is Felipe Zapata and I work as a software engineer at the [Netherlands eScience Center](https://www.esciencecenter.nl/). I am a curious scientific-minded software developer with a strong conviction that perseverance, teamwork and a considerable amount of luck 🍀 are the ingredients behind succcesful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio) instead of reading papers. 
 
-I am a also polyglot programmer: Python, Rust, C++, Haskell and if you pay me a lot Fortran.
+I am also a polyglot programmer: Python, Rust, C++, Haskell and if you pay me a lot Fortran.
 
 ### What do I stand for?
 > **I firmly believe that intelligence is just a robust methodology to recursively improve my stupidity**
@@ -38,32 +38,10 @@ I also develop [a toy eigenvalues solver in Rust](https://github.com/felipeZ/eig
 * [Dealing with Dragons and Monsters: Best Practices for Handling Legacy Code](https://blog.esciencecenter.nl/dealing-with-dragons-and-monsters-best-practices-for-handling-legacy-code-35bb9c939b7d)
 
 
-### Do you want to share something with me?
+###  Do you want to share something with me?
 * Do you have a cool project that do you want me to collaborate with?
 * Is there a scientific open source project that I may help with?
 * Do you what to know more about my projects?
 
-drop me an email at *tifonzafel@gmail.com*
+📬 drop me an email at *tifonzafel@gmail.com*
 
-
-
-
-
-<!--
-**felipeZ/felipeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### At work
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
