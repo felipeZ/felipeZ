@@ -9,7 +9,7 @@ I am also a polyglot programmer: Python, Rust, C++, Haskell and if you pay me a 
 
 I have worked quite hard to stand where I am today but this would have not been possible if I had not been in the right place at right moment, supported by a long list of extremely kind people.
 
-I also believe that innovative ideas, like the ones developed by scientific researchers and entrepreneurs are very difficult to carry out, but these ideas are the ones that have the largest potential payout for the society. Therefore, I work on projects that even though they are not popular or glamorous, they give me a long term satisfaction. 
+I also believe that innovative ideas, like the ones developed by scientific researchers and entrepreneurs are very difficult to carry out, but these ideas are the ones that have the largest potential payoff for the society. Therefore, I work on projects that even though they are not popular or glamorous, they give me a long term satisfaction. 
 
 
 ## At work
