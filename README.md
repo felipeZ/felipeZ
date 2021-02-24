@@ -27,7 +27,7 @@ I also maintain these other projects:
 
 
 ## Coding for fun
-🚀 In my free time I develop a web service backend using Rust with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/) to trade [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) and [options](https://en.wikipedia.org/wiki/Option_(finance))
+🚀 In my free time I develop a web service backend using Rust with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/) to trade [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) and [options](https://en.wikipedia.org/wiki/Option_(finance)).
 
 I also develop [a toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues).
 
