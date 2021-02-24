@@ -9,7 +9,7 @@ I am also a polyglot programmer: Python, Rust, C++, Haskell and if you pay me a 
 
 I have worked quite hard to stand where I am today but this would have not been possible if I had not been in the right place at right moment, supported by a long list of extremely kind people.
 
-I also believe that innovative ideas, like the ones developed by scientific researchers and entrepreneurs are very difficult to carried out, but these ideas are the ones that have the largest potential payout for the society. Therefore, I work on projects that even though they are not popular or glamorous, they give me a long term satisfaction. 
+I also believe that innovative ideas, like the ones developed by scientific researchers and entrepreneurs are very difficult to carry out, but these ideas are the ones that have the largest potential payout for the society. Therefore, I work on projects that even though they are not popular or glamorous, they give me a long term satisfaction. 
 
 
 ## At work
@@ -27,7 +27,7 @@ I also maintain these other projects:
 
 
 ## Coding for fun
-🚀 In my free time I develop a web service using Rust with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/) to [trade very deep out of the money options](https://www.investopedia.com/terms/d/deep-out-of-the-money.asp).
+🚀 In my free time I develop a web service backend using Rust with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/) to trade [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) and [options](https://en.wikipedia.org/wiki/Option_(finance))
 
 I also develop [a toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues).
 
