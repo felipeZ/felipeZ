@@ -26,7 +26,7 @@ I also maintain these other projects:
 * [nano-qmflows](https://github.com/SCM-NV/nano-qmflows)
 
 
-## Coding for fun
+## Coding for fun in Rust
 🚀 In my free time I develop a web service backend using Rust with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/).
 
 I also develop [a toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues).
