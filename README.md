@@ -27,9 +27,9 @@ I also maintain these other projects:
 
 
 ## Coding for fun in Rust
-🚀 In my free time I develop a web service backend using Rust with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/).
-
-I also develop [a toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues).
+🚀 In my free time I develop the following Rust projects:
+* a [a web service backend](https://github.com/malvacea/malvaceae) using with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/).
+* [a toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues).
 
 
 ## Some cool blogs that I have written
