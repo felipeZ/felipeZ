@@ -21,6 +21,7 @@ the ideas of our scientific stakeholders. These are some of the projects that I 
 * [flamingo](https://github.com/nlesc-nano/flamingo)
 
 I also maintain these other projects:
+* [Using Rust for scientific numerical applications](https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0)
 * [CI for science](https://github.com/ci-for-research/example-python-monte-carlo-pi)
 * [qmflows](https://github.com/SCM-NV/qmflows)
 * [nano-qmflows](https://github.com/SCM-NV/nano-qmflows)
