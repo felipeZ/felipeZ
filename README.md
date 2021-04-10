@@ -21,7 +21,6 @@ the ideas of our scientific stakeholders. These are some of the projects that I 
 * [flamingo](https://github.com/nlesc-nano/flamingo)
 
 I also maintain these other projects:
-* [Using Rust for scientific numerical applications](https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0)
 * [CI for science](https://github.com/ci-for-research/example-python-monte-carlo-pi)
 * [qmflows](https://github.com/SCM-NV/qmflows)
 * [nano-qmflows](https://github.com/SCM-NV/nano-qmflows)
@@ -34,6 +33,7 @@ I also maintain these other projects:
 
 
 ## Some cool blogs that I have written
+* [Using Rust for scientific numerical applications](https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0)
 * [A Quick and Dirty Pytest Cookbook](https://blog.esciencecenter.nl/a-quick-and-dirty-pytest-cookbook-58051a2980c3)
 * [Building a Web Service to Manage Scientific Simulation Data Using GraphQL](https://blog.esciencecenter.nl/building-a-web-service-to-manage-scientific-simulation-data-using-graphql-a0bbf1c3f6e9)
 * [Dealing with Dragons and Monsters: Best Practices for Handling Legacy Code](https://blog.esciencecenter.nl/dealing-with-dragons-and-monsters-best-practices-for-handling-legacy-code-35bb9c939b7d)
