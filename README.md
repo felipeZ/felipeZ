@@ -28,15 +28,17 @@ I also maintain these other projects:
 
 ## Coding in Rust
 🚀 Rust has a special place in heart. I develop the following Rust projects:
-* [A toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues).
-* [A web service backend](https://github.com/malvacea/malvaceae) using with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/).
+* [A toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues)
+* [A web service backend](https://github.com/malvacea/malvaceae) using with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/)
 
 
 ## Some cool blogs that I have written
 * [Using Rust for scientific numerical applications](https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0)
 * [A Quick and Dirty Pytest Cookbook](https://blog.esciencecenter.nl/a-quick-and-dirty-pytest-cookbook-58051a2980c3)
 * [Building a Web Service to Manage Scientific Simulation Data Using GraphQL](https://blog.esciencecenter.nl/building-a-web-service-to-manage-scientific-simulation-data-using-graphql-a0bbf1c3f6e9)
+* [A Haskell implementation of the Hartree-Fock method](https://themonadreader.files.wordpress.com/2013/03/issue214.pdf)
 * [Dealing with Dragons and Monsters: Best Practices for Handling Legacy Code](https://blog.esciencecenter.nl/dealing-with-dragons-and-monsters-best-practices-for-handling-legacy-code-35bb9c939b7d)
+
 
 
 ###  Do you want to share something with me?
