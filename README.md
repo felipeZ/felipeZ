@@ -1,6 +1,6 @@
 ## About me
 
-My name is Felipe Zapata and I work as a software engineer at the [Netherlands eScience Center](https://www.esciencecenter.nl/). I am a curious scientific-minded software developer with a strong conviction that perseverance, teamwork and a considerable amount of luck 🍀 are the ingredients behind succcesful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio) instead of reading papers. 
+My name is Felipe Zapata and I work as a software engineer at the [Netherlands eScience Center](https://www.esciencecenter.nl/). I am a curious scientific-minded software developer with a strong conviction that perseverance, teamwork, and a considerable amount of luck 🍀 are the ingredients behind successful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio) instead of reading papers. 
 
 I am also a polyglot programmer: Python, Rust, C++, Haskell and if you pay me a lot Fortran.
 
@@ -9,7 +9,7 @@ I am also a polyglot programmer: Python, Rust, C++, Haskell and if you pay me a 
 
 I have worked quite hard to stand where I am today but this would have not been possible if I had not been in the right place at right moment, supported by a long list of extremely kind people.
 
-I also believe that innovative ideas, like the ones developed by scientific researchers and entrepreneurs are very difficult to carry out, but these ideas are the ones that have the largest potential payoff for the society. Therefore, I work on projects that even though they may not be the most popular or glamorous, they give me a long term satisfaction. 
+I also believe that innovative ideas, like the ones developed by scientific researchers and entrepreneurs, are very difficult to carry out, but these ideas are the ones that have the largest potential payoff for society. Therefore, I work on projects that even though they may not be the most popular or glamorous, give me a long-term satisfaction. 
 
 
 ## At work
