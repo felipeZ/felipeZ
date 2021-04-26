@@ -27,7 +27,7 @@ I also maintain these other projects:
 
 
 ## Coding in Rust
-🚀 Rust has a special place in heart. I develop the following Rust projects:
+🚀 Rust has a special place in my heart. I develop the following Rust projects:
 * [A toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues)
 * [A web service backend](https://github.com/malvacea/malvaceae) using with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/)
 
