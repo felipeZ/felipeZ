@@ -1,6 +1,6 @@
 ## About me
 
-My name is Felipe Zapata and I am a curious scientific-minded software engineer with a strong conviction that perseverance, teamwork, and a considerable amount of luck 🍀 are the ingredients behind successful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio) instead of reading papers. 
+My name is Felipe Zapata and I am a curious scientific-minded software engineer with a strong conviction that perseverance, teamwork, and a considerable amount of luck 🍀 are the ingredients behind successful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio).
 
 I am also a polyglot programmer: Python, Rust, C++ and Haskell.
 
@@ -9,7 +9,7 @@ I am also a polyglot programmer: Python, Rust, C++ and Haskell.
 
 I have worked quite hard to stand where I am today but this would have not been possible if I had not been in the right place at right moment, supported by a long list of extremely kind people.
 
-I also believe that innovative ideas, like the ones developed by scientific researchers and entrepreneurs, are very difficult to carry out, but these ideas are the ones that have the largest potential payoff for society. Therefore, I work on projects that even though they may not be the most popular or glamorous, give me a long-term satisfaction. 
+I also believe that innovative ideas, like the ones developed by entrepreneurs and scientific researchers, are very difficult to carry out, but these ideas are the ones that have the largest potential payoff for society. Therefore, I work on projects that even though they may not be the most popular or glamorous, give me a long-term satisfaction. 
 
 
 ## Scientific Software
@@ -21,12 +21,11 @@ I also believe that innovative ideas, like the ones developed by scientific rese
 * [A example to setup CI for science](https://github.com/ci-for-research/example-python-monte-carlo-pi)
 * [qmflows: a Python library to build and execute computational chemistry workflows](https://github.com/SCM-NV/qmflows)
 * [nano-qmflows: a python library to compute electronic properties for nanomaterials](https://github.com/SCM-NV/nano-qmflows)
-
-
-## Coding in Rust
-🚀 Rust has a special place in my heart. I develop the following Rust projects:
 * [A toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues)
-* [A web service backend](https://github.com/malvacea/malvaceae) using with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/)
+
+
+## Coding for fun
+* [A web service backend written in Rust](https://github.com/malvacea/malvaceae) using with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/)
 
 
 ## Some cool blogs that I have written
