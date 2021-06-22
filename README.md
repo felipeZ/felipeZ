@@ -1,8 +1,8 @@
 ## About me
 
-My name is Felipe Zapata and I work as a software engineer at the [Netherlands eScience Center](https://www.esciencecenter.nl/). I am a curious scientific-minded software developer with a strong conviction that perseverance, teamwork, and a considerable amount of luck 🍀 are the ingredients behind successful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio) instead of reading papers. 
+My name is Felipe Zapata and I am a curious scientific-minded software engineer with a strong conviction that perseverance, teamwork, and a considerable amount of luck 🍀 are the ingredients behind successful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio) instead of reading papers. 
 
-I am also a polyglot programmer: Python, Rust, C++, Haskell and if you pay me a lot Fortran.
+I am also a polyglot programmer: Python, Rust, C++ and Haskell.
 
 ### What do I stand for?
 > **I firmly believe that intelligence is just a robust methodology to recursively improve my stupidity**
@@ -12,18 +12,15 @@ I have worked quite hard to stand where I am today but this would have not been 
 I also believe that innovative ideas, like the ones developed by scientific researchers and entrepreneurs, are very difficult to carry out, but these ideas are the ones that have the largest potential payoff for society. Therefore, I work on projects that even though they may not be the most popular or glamorous, give me a long-term satisfaction. 
 
 
-## At work
-🛠 At the [Netherlands eScience Center](https://www.esciencecenter.nl/) I have a lot of freedom to create and support the software necessary to drive forward
-the ideas of our scientific stakeholders. These are some of the projects that I am currently working on:
-* [Votca](https://github.com/votca/xtp)
-* [Ceiba](https://github.com/nlesc-nano/ceiba)
-* [swan](https://github.com/nlesc-nano/swan)
-* [flamingo](https://github.com/nlesc-nano/flamingo)
-
-I also maintain these other projects:
-* [CI for science](https://github.com/ci-for-research/example-python-monte-carlo-pi)
-* [qmflows](https://github.com/SCM-NV/qmflows)
-* [nano-qmflows](https://github.com/SCM-NV/nano-qmflows)
+## Scientific Software
+🧬 🔭 🔬 I have contributed to the the following scientific software software:
+* [Votca: a library to calculate electronic properties of organic materials](https://github.com/votca/xtp)
+* [Ceiba: a web service to manage scientific simulation data](https://github.com/nlesc-nano/ceiba)
+* [swan: a Python package to create statistical models to predict molecular properties](https://github.com/nlesc-nano/swan)
+* [flamingo: a library to compute and filter molecular properties](https://github.com/nlesc-nano/flamingo)
+* [A example to setup CI for science](https://github.com/ci-for-research/example-python-monte-carlo-pi)
+* [qmflows: a Python library to build and execute computational chemistry workflows](https://github.com/SCM-NV/qmflows)
+* [nano-qmflows: a python library to compute electronic properties for nanomaterials](https://github.com/SCM-NV/nano-qmflows)
 
 
 ## Coding in Rust
