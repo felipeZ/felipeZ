@@ -13,7 +13,7 @@ I also believe that innovative ideas, like the ones developed by entrepreneurs a
 
 
 ## Scientific Software
-🧬 🔭 🔬 I have contributed to the the following scientific software software:
+🧬 🔭 🔬 I have contributed to the the following scientific software:
 * [Votca: a library to calculate electronic properties of organic materials](https://github.com/votca/xtp)
 * [Ceiba: a web service to manage scientific simulation data](https://github.com/nlesc-nano/ceiba)
 * [swan: a Python package to create statistical models to predict molecular properties](https://github.com/nlesc-nano/swan)
