@@ -14,7 +14,7 @@ I also believe that innovative ideas, like the ones developed by entrepreneurs a
 
 ## Scientific Software
 🧬 🔭 🔬 I have contributed to the the following scientific software:
-* [Votca: a library to calculate electronic properties of organic materials](https://github.com/votca/xtp)
+* [Votca: a library to calculate electronic properties of organic materials](https://github.com/votca/votca)
 * [Ceiba: a web service to manage scientific simulation data](https://github.com/nlesc-nano/ceiba)
 * [swan: a Python package to create statistical models to predict molecular properties](https://github.com/nlesc-nano/swan)
 * [flamingo: a library to compute and filter molecular properties](https://github.com/nlesc-nano/flamingo)
@@ -22,10 +22,6 @@ I also believe that innovative ideas, like the ones developed by entrepreneurs a
 * [qmflows: a Python library to build and execute computational chemistry workflows](https://github.com/SCM-NV/qmflows)
 * [nano-qmflows: a python library to compute electronic properties for nanomaterials](https://github.com/SCM-NV/nano-qmflows)
 * [A toy eigenvalues solver in Rust](https://github.com/felipeZ/eigenvalues)
-
-
-## Coding for fun
-* [A web service backend written in Rust](https://github.com/malvacea/malvaceae) using with tools like [actix-web](https://github.com/actix/actix-web), [async-graphql](https://github.com/async-graphql/async-graphql) and [ndarray](https://docs.rs/ndarray/latest/ndarray/)
 
 
 ## Some cool blogs that I have written
