@@ -11,6 +11,9 @@ I have worked quite hard to stand where I am today but this would have not been 
 
 I also believe that innovative ideas, like the ones developed by entrepreneurs and scientific researchers, are very difficult to carry out, but these ideas are the ones that have the largest potential payoff for society. Therefore, I work on projects that even though they may not be the most popular or glamorous, give me a long-term satisfaction. 
 
+### What do I work on?
+**I build high performance trading system in Rust and Python**, using tools like: Redis, Postgres, Docker, Kubernetes, etc.
+
 
 ## Scientific Software
 🧬 🔭 🔬 I have contributed to the the following scientific software:
@@ -30,13 +33,4 @@ I also believe that innovative ideas, like the ones developed by entrepreneurs a
 * [Building a Web Service to Manage Scientific Simulation Data Using GraphQL](https://blog.esciencecenter.nl/building-a-web-service-to-manage-scientific-simulation-data-using-graphql-a0bbf1c3f6e9)
 * [A Haskell implementation of the Hartree-Fock method](https://themonadreader.files.wordpress.com/2013/03/issue214.pdf)
 * [Dealing with Dragons and Monsters: Best Practices for Handling Legacy Code](https://blog.esciencecenter.nl/dealing-with-dragons-and-monsters-best-practices-for-handling-legacy-code-35bb9c939b7d)
-
-
-
-###  Do you want to share something with me?
-* Do you have a cool project that do you want me to collaborate with?
-* Is there a scientific open source project that I may help with?
-* Do you what to know more about my projects?
-
-📬 drop me an email at *tifonzafel@gmail.com*
 
