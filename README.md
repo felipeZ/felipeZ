@@ -2,7 +2,6 @@
 
 My name is Felipe Zapata and I am a curious scientific-minded software engineer with a strong conviction that perseverance, teamwork, and a considerable amount of luck 🍀 are the ingredients behind successful projects. BTW, I happen to have a Ph.D. in computational chemistry, during which I spent most of the time coding things like [Haskell ab initio](https://github.com/felipeZ/Haskell-abinitio).
 
-I am also a polyglot programmer: Python, Rust, C++ and Haskell.
 
 ### What do I stand for?
 > **I firmly believe that intelligence is just a robust methodology to recursively improve my stupidity**
@@ -12,7 +11,7 @@ I have worked quite hard to stand where I am today but this would have not been 
 I also believe that innovative ideas, like the ones developed by entrepreneurs and scientific researchers, are very difficult to carry out, but these ideas are the ones that have the largest potential payoff for society. Therefore, I work on projects that even though they may not be the most popular or glamorous, give me a long-term satisfaction. 
 
 ### What do I work on?
-**I build high performance trading system in Rust and Python**, using tools like: Redis, Postgres, Docker, Kubernetes, etc.
+**I build high performance trading system in Rust and Python**, using tools like: NATS, Kubernetes, etc.
 
 
 ## Scientific Software
